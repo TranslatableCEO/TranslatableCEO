@@ -1,4 +1,4 @@
-👋🏾 Hi, I’m @TranslatableCEO
+👋🏾  Hi, I’m @TranslatableCEO
 
 👀 I’m interested in ethical AI, machine learning, computational linguistics and natural langauge processing!
 
