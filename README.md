@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning: 
 
--Fundamentals of data analytics for Amazon Web Services
+- Machine learning with Python 
 
 -Java
 
@@ -15,6 +15,10 @@
 -Information Systems
 
 -Data Science
+
+💪🏾 I completed: 
+
+-Fundamentals of data analytics for Amazon Web Services
 
 📫 How to reach me 
 -info@itsranslatable.com
